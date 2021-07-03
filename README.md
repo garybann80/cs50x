@@ -1,2 +1,2 @@
 # cs50x
-Files for completeion of CS50x
+Files for completion of CS50x
